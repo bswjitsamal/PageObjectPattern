@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Login]">
+  <test name="Nopackage(failed)">
+    <classes>
+      <class name="com.webtek.test.SanityClass">
+        <methods>
+          <include name="tearDown"/>
+          <include name="signInPage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.webtek.test.SanityClass -->
+    </classes>
+  </test> <!-- Nopackage(failed) -->
+</suite> <!-- Failed suite [Login] -->

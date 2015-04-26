@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19158" started-at="2015-04-26T09:59:09Z" finished-at="2015-04-26T09:59:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19158" started-at="2015-04-26T09:59:09Z" finished-at="2015-04-26T09:59:28Z">
+      <class name="com.webtek.test.SanityClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webtek.test.SanityClass@12d15a9]" name="setUp" is-config="true" duration-ms="13621" started-at="2015-04-26T15:29:09Z" finished-at="2015-04-26T15:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInPage()[pri:0, instance:com.webtek.test.SanityClass@12d15a9]" name="signInPage" duration-ms="5086" started-at="2015-04-26T15:29:22Z" finished-at="2015-04-26T15:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webtek.test.SanityClass@12d15a9]" name="tearDown" is-config="true" duration-ms="436" started-at="2015-04-26T15:29:28Z" finished-at="2015-04-26T15:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webtek.test.SanityClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

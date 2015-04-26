@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Login" verbose="1">
+	<test name="Nopackage">
+		<classes>
+			<class name="com.webtek.test.SanityClass" />
+		</classes>
+	</test>
+</suite>
